@@ -20,7 +20,7 @@ Tableau is used to visualize the findings. The reader can get insights of how th
 3) Active Trading in times of nature disasters.
 4) Long on crypto currencies related to ESG standards.
 
-<img src="screenshots/Strategies.PNG?raw=true"/>
+<img src="screenshots/Strategy.PNG?raw=true"/>
 
 ## Getting Started
 For running the code locally, all the requirements have to be installed.
