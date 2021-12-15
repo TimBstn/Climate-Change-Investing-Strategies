@@ -1,6 +1,6 @@
 # Climate-Change-Investing-Strategies
 
-Access the dashboard here: https://public.tableau.com/views/Climate_Change_Investing_Strategies/Story?:language=de-DE&:display_count=n&:origin=viz_share_link
+[Access the dashboard here.](https://public.tableau.com/views/Climate_Change_Investing_Strategies/Story?:language=de-DE&:display_count=n&:origin=viz_share_link)
 
 <img src="screenshots/Overview.PNG?raw=true"/>
 
