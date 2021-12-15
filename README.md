@@ -1,5 +1,7 @@
 # Climate-Change-Investing-Strategies
 
+<img src="screenshots/Overview.PNG?raw=true"/>
+
 This project explores how investors can generate profit in times of climate change. As climate change is a rising threat in moderns society, investors have to adapt their strategies and look for green opportunities. The project consist of two parts: 
 1) Generating the data with the use of python.
 2) Visualizing the data in Tableau.
