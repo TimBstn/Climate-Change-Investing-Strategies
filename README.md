@@ -17,3 +17,13 @@ Tableau is used to visualize the findings. The reader can get insights of how th
 2) Long on the top 15 ESG-compnies and short on the worst 15 ESG-companies.
 3) Active Trading in times of nature disasters.
 4) Long on crypto currencies related to ESG standards.
+
+
+## Getting Started
+For running the code locally, all the requirements have to be installed.
+
+
+```
+pip install -r requirements.txt
+
+```
