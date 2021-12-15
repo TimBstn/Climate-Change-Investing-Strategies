@@ -19,7 +19,7 @@ Tableau is used to visualize the findings. The reader can get insights of how th
 ## Trading strategies.
 1) Long on the top 15 ESG-companies.
 2) Long on the top 15 ESG-compnies and short on the worst 15 ESG-companies.
-3) Active Trading in times of nature disasters.
+3) Active Trading in times of natural disasters.
 4) Long on crypto currencies related to ESG standards.
 
 <img src="screenshots/Strategy.PNG?raw=true"/>
