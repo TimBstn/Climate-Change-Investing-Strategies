@@ -1,5 +1,7 @@
 # Climate-Change-Investing-Strategies
 
+Access the dashboard here: https://public.tableau.com/views/Climate_Change_Investing_Strategies/Story?:language=de-DE&:display_count=n&:origin=viz_share_link
+
 <img src="screenshots/Overview.PNG?raw=true"/>
 
 This project explores how investors can generate profit in times of climate change. As climate change is a rising threat in moderns society, investors have to adapt their strategies and look for green opportunities. The project consist of two parts: 
